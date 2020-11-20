@@ -1,0 +1,11 @@
+
+[alias]
+  c = commit -m
+  ch = checkout
+  a = add
+  p = pull
+  d = push
+  f = fetch
+
+[init]
+	defaultBranch = main
